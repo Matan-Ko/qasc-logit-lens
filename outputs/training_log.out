@@ -1,0 +1,6 @@
+device: cuda
+Letter token ids: {'A': 317, 'B': 347, 'C': 327, 'D': 360, 'E': 412, 'F': 376, 'G': 402, 'H': 367}
+Pre-FT final-layer accuracy: 0.1067
+Training examples kept: 8134 / 8134
+Post-FT final-layer accuracy: 0.9967
+Saved plots + arrays under outputs/
